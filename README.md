@@ -19,17 +19,17 @@ You can view the design prototype on Figma:
 
 The goal of **JarTrack** is to:
 
-## 📝 Save and view preservation recipes, including ingredients and preparation methods
+📝 Save and view preservation recipes, including ingredients and preparation methods
 
-## 📷 Attach photos to each jar or recipe for easy identification
+📷 Attach photos to each jar or recipe for easy identification
 
-## 📊 Provide a clear overview of preserved food stock at home
+📊 Provide a clear overview of preserved food stock at home
 
-## 🗃️ Sort recipes and jars by category (e.g., jams, compotes, fermented, etc.)
+🗃️ Sort recipes and jars by category (e.g., jams, compotes, fermented, etc.)
 
-## 🧮 Track the number of empty jars available for future use
+🧮 Track the number of empty jars available for future use
 
-## ⏳ Monitor how long each set of preserved items has been stored and notify when it's time to consume it
+⏳ Monitor how long each set of preserved items has been stored and notify when it's time to consume it
 
 
 
