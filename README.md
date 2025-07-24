@@ -47,17 +47,17 @@ The goal of **JarTrack** is to:
 
 
 # ✨ Planned Features
-Inventory dashboard with categories (Jam, Fermented, etc.)
+- Inventory dashboard with categories (Jam, Fermented, etc.)
 
-Recipe library with photo support
+- Recipe library with photo support
 
-Add/Edit/Delete jars and recipes
+- Add/Edit/Delete jars and recipes
 
-Quantity tracking for each type of preserved item and empty jars
+- Quantity tracking for each type of preserved item and empty jars
 
-Tracking of expiring sets
+- Tracking of expiring sets
 
-Optional future features: reminders for expiring item sets
+- Optional future features: reminders for expiring item sets
 
 
 
