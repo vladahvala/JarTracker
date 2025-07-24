@@ -1,13 +1,17 @@
-#🥫 JarTracker
+# 🥫 JarTracker
 **JarTracker** is a mobile app concept that helps users track their home-canned goods and store their favorite preservation recipes. It also sends reminders when a jar has been stored for too long (e.g., over one year).Designed for home cooks, gardeners, and anyone who loves preserving seasonal produce, **JarTracker** offers a simple and visual way to manage your pantry.
 
 
 
-#📱 Figma Design
+
+
+# 📱 Figma Design
 You can view the design prototype on Figma:
 
-##🔗 Figma Link Here
+## 🔗 Figma Link Here
 (https://www.figma.com/design/czXI5jhry7391J8JVFp3SM/Recipes-App-Design--Community-?node-id=0-1&t=O20NdDEW0xVsruLm-1)
+
+
 
 
 
@@ -29,6 +33,8 @@ The goal of **JarTrack** is to:
 
 
 
+
+
 #🔧 Tech Stack (planned)
 **React Native / Expo** – for cross-platform mobile development
 
@@ -38,7 +44,9 @@ The goal of **JarTrack** is to:
 
 
 
-#✨ Planned Features
+
+
+# ✨ Planned Features
 Inventory dashboard with categories (Jam, Fermented, etc.)
 
 Recipe library with photo support
@@ -53,5 +61,7 @@ Optional future features: reminders for expiring item sets
 
 
 
-#🗂️ Project Status
+
+
+# 🗂️ Project Status
 🟡 In design phase — the Figma mockups are ready, and development will begin soon. Contributions, feedback, or collaboration ideas are welcome!
