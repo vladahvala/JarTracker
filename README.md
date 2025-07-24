@@ -35,7 +35,7 @@ The goal of **JarTrack** is to:
 
 
 
-#🔧 Tech Stack (planned)
+# 🔧 Tech Stack (planned)
 **React Native / Expo** – for cross-platform mobile development
 
 **AsyncStorage or SQLite** – for local data persistence
@@ -64,4 +64,4 @@ Optional future features: reminders for expiring item sets
 
 
 # 🗂️ Project Status
-🟡 In design phase — the Figma mockups are ready, and development will begin soon. Contributions, feedback, or collaboration ideas are welcome!
+🟡 In design phase - the Figma mockups are ready, and development will begin soon
