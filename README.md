@@ -1,5 +1,5 @@
-# 🥫 JarTracker
-**JarTracker** is a mobile app concept that helps users track their home-canned goods and store their favorite preservation recipes. It also sends reminders when a jar has been stored for too long (e.g., over one year).Designed for home cooks, gardeners, and anyone who loves preserving seasonal produce, **JarTracker** offers a simple and visual way to manage your pantry.
+# 🥫 Komora
+**Komora** is a mobile app concept that helps users track their home-canned goods and store their favorite preservation recipes. It also sends reminders when a jar has been stored for too long (e.g., over one year).Designed for home cooks, gardeners, and anyone who loves preserving seasonal produce, **Komora** offers a simple and visual way to manage your pantry.
 
 
 
@@ -17,7 +17,7 @@ You can view the design prototype on Figma:
 
 # 🎯 Purpose
 
-The goal of **JarTrack** is to:
+The goal of **Komora** is to:
 
 📝 Save and view preservation recipes, including ingredients and preparation methods
 
